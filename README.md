@@ -17,6 +17,7 @@ Capital Analyst es una firma mexicana de asesoría de inversiones que automatiza
 |:--|:--|
 | `Proyecto_Final_Capital_Analyst_A01452205_FZ4038.html` | Documento final con código, resultados, gráficas e interpretaciones. Se abre en cualquier navegador. |
 | `Proyecto_Final_Capital_Analyst_A01452205_FZ4038.ipynb` | Notebook de Python (Google Colab) con los resultados de la corrida. |
+| `Proyecto_Final_Capital_Analyst_A01452205_FZ4038_codigo.py` | Solo el código del notebook, sin resultados, ordenado por secciones. Se usó para la revisión con GitHub Copilot. |
 | `panel_trimestral_LSEG.csv` | Datos trimestrales depurados para el modelo de datos panel; el notebook los lee desde este repositorio. |
 | `Proyecto_Final_Datos_Panel_LSEG.xlsx` | Descarga original de LSEG Workspace (estados financieros trimestrales), fuente del archivo CSV. |
 
@@ -63,4 +64,4 @@ Los resultados y su interpretación están en el archivo HTML.
 
 ## Uso de inteligencia artificial
 
-Para elaborar el código en Python y apoyar la redacción se utilizó Claude (Anthropic) como asistente, y GitHub Copilot para la revisión del código. Los cálculos se ejecutaron en Google Colab y los resultados e interpretaciones fueron revisados por el alumno.
+Para elaborar el código en Python y apoyar la redacción se utilizó Claude (Anthropic) como asistente, y GitHub Copilot para la revisión del código ([conversación con Copilot](https://github.com/copilot/share/c04d412c-01c4-8ea6-9902-9a04c0db6916)). Las observaciones de Copilot que se consideraron válidas se incorporaron como advertencias y limitaciones en las secciones 6, 9 y 13. Los cálculos se ejecutaron en Google Colab y los resultados e interpretaciones fueron revisados por el alumno.
